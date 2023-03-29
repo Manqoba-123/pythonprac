@@ -1,21 +1,20 @@
 # **Python practise**
 The repo is for Lungile Nkabinde and Aziwe Mlangeni
-##
+
 
 ## Resources
 - Youtube
 - ChatGPT
 - PDF's
-##
 
 ## Cloning the repo
 using gitbash or any supporting platform
-####
+
 
 ## Tasks
 1. print Hello World!
 	- **output :** Hello World!
-####
+##
 
 - Using personal token key 
 ````bash
