@@ -3,9 +3,9 @@ The repo is for Lungile Nkabinde and Aziwe Mlangeni
 ##
 
 ## Resources
-Youtube
-ChatGPT
-PDF's
+- Youtube
+- ChatGPT
+- PDF's
 ##
 
 ## Cloning the repo
