@@ -13,7 +13,7 @@ using gitbash or any supporting platform
 
 ## Tasks
 
-as we all programmers start from zero to count, first task is to create branches.
+as we all know programmers start from zero to count, first task is to create branches.
 - A branch is checked as follows
 ````bash
 ~# git branch
