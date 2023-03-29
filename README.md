@@ -2,13 +2,13 @@
 The repo is for Lungile Nkabinde and Aziwe Mlangeni
 ##
 
-##Resources
+## Resources
 Youtube
 ChatGPT
 PDF's
 ##
 
-##Cloning the repo
+## Cloning the repo
 using gitbash or any supporting platform
 ####
 
