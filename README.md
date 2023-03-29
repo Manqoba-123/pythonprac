@@ -12,6 +12,12 @@ PDF's
 using gitbash or any supporting platform
 ####
 
+- Using personal token key 
 ````bash
 *~ git clone https://ptk@github.com/Manqoba-123/pythonprac.git
+````
+
+- Using HTTPS or SSH
+````bash
+*~ git clone yourSSHgit@github.com:Manqoba-123/pythonprac.git
 ````
