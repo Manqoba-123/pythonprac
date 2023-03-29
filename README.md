@@ -12,6 +12,10 @@ The repo is for Lungile Nkabinde and Aziwe Mlangeni
 using gitbash or any supporting platform
 ####
 
+## Tasks
+1. print Hello World!
+	- **output :** Hello World!
+
 - Using personal token key 
 ````bash
 *~ git clone https://ptk@github.com/Manqoba-123/pythonprac.git
