@@ -40,6 +40,13 @@ main
 2. Write a Python program to print the following string in a specific format.
  - Sample String:Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are
 
+3. Write a python program that calculates the area of a circle based on the radius entered by the user
+  - Sample output :
+````bash
+r = 1.1
+Area = 3.8013271108436504
+
+````
  ```bash
 Twinkle, twinkle, little star,
 	How I wonder what you are! 
