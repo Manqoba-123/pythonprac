@@ -57,6 +57,13 @@ Area = 3.8013271108436504
 
 ````
 
+4. Write a python program that calculates the area and the perimeter of a rectangle, length and width entered by user
+   - Dample output:
+````bash
+perimeter = 20 
+area = 123
+````
+
 
 ##
 
